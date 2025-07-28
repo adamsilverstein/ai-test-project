@@ -84,6 +84,7 @@ The block must display the following information:
 ## 📝 Notes
 
   * You have push access to the current GitHub repository.
-  * Break down your work into logical, incremental commits.
+  * Break down your work into high level tasks, creating new work streams - or opening new GitHub issues for each task.
+  * Code updates should be grouped into logical, incremental commits with detailed commit messages.
   * Focus on creating a production-quality, secure, and performant plugin.
   * Ensure the block design is clean, modern, and accessible (WCAG 2.1 AA).
