@@ -38,6 +38,10 @@ The block must display the following information:
   * A short weather description (e.g., "Clear sky," "Few clouds").
   * Humidity percentage.
 
+### Settings page
+
+  * The block should include a settings page that lets the user enter their OpenWeatherMap API key. This page should be accessible from the WordPress admin menu under "Settings" > "Weather Block". Also include a link to the OpenWeatherMap API documentation for reference.
+
 ### Error Handling
 
   * If the API request fails or the location is not found, the block should display a user-friendly error message (e.g., "Could not fetch weather data. Please check the location and try again.").
