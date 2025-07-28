@@ -74,7 +74,7 @@ The block must display the following information:
 
 ## Deliverables
 
-1.  A fully functional WordPress plugin in a `.zip` file.
+1.  A build process that creates a fully functional WordPress plugin in a `.zip` file.
 2.  The complete source code pushed to the provided GitHub repository.
 3.  A `README.md` file explaining installation and usage.
 4.  A commit history that follows the **Conventional Commits** specification (e.g., `feat:`, `fix:`, `docs:`). This demonstrates a structured development process.
