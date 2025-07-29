@@ -1,5 +1,7 @@
 # AI Agent Test: WordPress Weather Block Plugin
 
+Task: Build a WordPress Weather Block Plugin
+
 ## 🎯 Objective
 
 The objective is to build a WordPress block plugin that provides a custom "Weather Block". This block will display current weather conditions for a user-specified location, fetched from a live API.
